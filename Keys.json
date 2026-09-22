@@ -1,0 +1,14 @@
+{
+  "HACKERSAH2026_VIP_TDM": {
+    "expires": 1893456000,
+    "note": "VIP"
+  },
+  "HACKERSAH_MONTHLY_001": {
+    "expires": 1798761600,
+    "note": "شهري"
+  },
+  "HACKERSAH_TEST": {
+    "expires": 1767225600,
+    "note": "تجريبي"
+  }
+}
